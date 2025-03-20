@@ -61,3 +61,10 @@ Nous pouvons observer qu'il y a la possibilité de :
 **Je tenais aussi à informer d'un problème avec la gestion du projet entre mon camarade Jan et moi au niveau de l'installation de MyGestIOnR avec le script ./install.sh. Ce script ne donne pas tous les droits à GestAdmin (de mon côté). Alors, vous aurez la version de mon projet avec l'utilisateur votre_utilisateur, qu'il faudra mettre lors de l'installation de ma version du script ./install.sh. Je l'ai testé sur une autre machine cela fonctionne (malgré quelques erreurs)**
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/gestadmin.png) 
 ![Gestion Parc](https://github.com/MJSIO1A/Projet-MyGestIOnR/blob/main/images/votre_utilisateur.png)
+
+
+## 🎥 Démonstration du projet
+
+[![Voir la vidéo](https://img.youtube.com/vi/1ZLzMQIMBTQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=1ZLzMQIMBTQ)
+
+🔗 *Cliquez sur l'image pour voir la démonstration sur YouTube !*
