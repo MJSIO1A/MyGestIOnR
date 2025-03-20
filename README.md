@@ -68,3 +68,10 @@ Nous pouvons observer qu'il y a la possibilité de :
 [![Voir la vidéo](https://img.youtube.com/vi/1ZLzMQIMBTQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=1ZLzMQIMBTQ)
 
 🔗 *Cliquez sur l'image pour voir la démonstration sur YouTube !*
+
+
+## 📦 Télécharger le projet
+
+🔽 **[Télécharger myGest_IOnR.7z](https://github.com/MJSIO1A/MyGestIOnR/raw/main/myGest_IOnR.7z)**  
+
+➡️ **Cliquez sur "View Raw"** si le téléchargement ne démarre pas automatiquement.
